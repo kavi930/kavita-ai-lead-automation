@@ -1,0 +1,9 @@
+{
+  "name": "LeadFlow.ai - AI Lead Qualification & Pipeline Automation",
+  "description": "Autonomous lead qualification, instant WhatsApp triage, and booked appointment automation for clinics, gyms, and professional services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
